@@ -1,0 +1,15 @@
+{
+  "name": "font-awesome-sass",
+  "homepage": "https://github.com/FortAwesome/font-awesome-sass",
+  "version": "5.5.0",
+  "_release": "5.5.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "5.5.0",
+    "commit": "d043a6a4036e3f0df22dd2c26b171df15b0e5091"
+  },
+  "_source": "https://github.com/FortAwesome/font-awesome-sass.git",
+  "_target": "^5.5.0",
+  "_originalSource": "font-awesome-sass",
+  "_direct": true
+}
